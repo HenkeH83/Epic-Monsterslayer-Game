@@ -22,7 +22,7 @@ public class Adventure {
 		System.out.println(
 				"\n* What do you do?\n----------------------\n> 1. Keep exploring.\n> 2. Go back to town.\n> 3. Check your status.");
 		int choice = in.nextInt();
-		if (choice < 1 || choice > 2) {
+		if (choice < 1 || choice > 3) {
 			System.out.println("\n* The CPU Gnomes does not understand what you're trying to do, try again.\n");
 			Adventure.adventure(player);
 		}
