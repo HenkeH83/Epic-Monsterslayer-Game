@@ -7,4 +7,4 @@ There is a shop system.
 And as you progress you encounter bosses and walk through different terrain.
 
 #### Technologies
-j2SE.
+J2SE.
